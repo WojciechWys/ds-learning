@@ -1,9 +1,3 @@
 # ds-learning
-Data science exercises
-
-Tekst dodany w ramach zadania 7
-
-Tekst dodany w ramach zadania 8
-
-Modyfikacja u kolegi
+This is a repository containing exercises in the field of Data Science. A more detailed Readme will be added soon.
 
